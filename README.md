@@ -4,6 +4,8 @@
   - Python
   - SQL (PostgresSQL)
   - Django
+  - HTML
+  - CSS
   - JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanAtes&show_icons=true&theme=transparent)
