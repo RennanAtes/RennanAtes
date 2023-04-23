@@ -4,9 +4,15 @@
   - Python
   - SQL (PostgresSQL)
   - Django
+  - GIT
   - HTML
   - CSS
   - JS
+
+### Ferramentas
+  - Excel
+  - Power Bi
+  - 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanAtes&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanAtes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
