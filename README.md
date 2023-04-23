@@ -1,5 +1,11 @@
 ### Olá! Seja muito bem vindo ao meu GitHub!
 
+### Tecnologias
+  - Python
+  - SQL (PostgresSQL)
+  - Django
+  - JS
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanAtes&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanAtes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
